@@ -1,0 +1,39 @@
+{
+  "name": "4b-awos-230297",
+  "version": "1.0.0",
+  "description": "Proyecto de Clase para la Unidad 2, de la asignatura AWOS Utilizando Node.js",
+  "main": "index.js",
+  "type":"module",
+  
+  "scripts": {
+    "saluda": "node saluda.js",
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esther-Gonzalez04/BienesRaices_230297.git"
+  },
+  "keywords": [
+    "MVC",
+    "Express",
+    "Sequelize",
+    "MySQL",
+    "Tailmind",
+    "Nodemon",
+    "NodeJS",
+    "Mailtrap",
+    "JWT"
+  ],
+  "author": "Esther Gonzalez Peralta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Esther-Gonzalez04/BienesRaices_230297/issues"
+  },
+  "homepage": "https://github.com/Esther-Gonzalez04/BienesRaices_230297#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
