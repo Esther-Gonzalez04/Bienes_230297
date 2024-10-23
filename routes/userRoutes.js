@@ -1,12 +1,17 @@
-import express, { request, response } from 'express';
-const router=express.Router();
+import express from 'express';
+
+const router = express.Router()
 
 //GET
-router.get("/busquedaPorID",function(request,response){
-    response.send(`Se está solicitando buscar el usuario con el ID ${request.params.id}`);
-})
+router.get("/busquedaPorID/:id", (request, response)=>{
+    response.send(`Se esta solicitando buscar al usuario con ID: ${request.params.id}`)
+})  //2 componentes de una petición - ruta -callback
 
-// 2 componentes de una petición
+//POST
+
+//PUT
+
+//PATCH
 
 
 export default router;
