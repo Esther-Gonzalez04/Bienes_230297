@@ -9,8 +9,9 @@ Para poder demostrar y aprender la creación de consumo de Interfaces de Program
 ## Historial de Prácticas
 |No.|Fecha|Descripción|Potenciador|Estatus|
 |--|--|--|--|--|
-|8.|17/10/2024|Nuevo repositorio del Proyecto Implementando .gitignore|1|⭐Activa|
-|9.|22/10/2024|Creación de una aplicación web usando Express|11|⭐Activa|
+|8.|17/10/2024|Nuevo repositorio del Proyecto Implementando .gitignore|1|✅Finalizada|
+|9.|22/10/2024|Creación de una aplicación web usando Express|12|✅Finalizada|
+|10.|24/10/2024|Operaciones básicas de un API, a travéz de los verbos HTTP|12|✅Finalizada|
 
 ✅Finalizada
 
